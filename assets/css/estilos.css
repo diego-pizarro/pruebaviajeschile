@@ -19,3 +19,11 @@
     #message{
         height: 10rem;
     }
+
+    a:link {
+        text-decoration: none;
+      }
+      
+      a:visited {
+        text-decoration: none;
+      }
